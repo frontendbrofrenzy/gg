@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<i class="fa-brands fa-instagram"></i>
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-whatsapp"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-solid fa-phone"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-envelope"></i>
+<i class="fa-brands fa-github"></i>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap" rel="stylesheet">
+// <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 400 to 700
+    
+    .edu-au-vic-wa-nt-pre-<uniquifier> {
+      font-family: "Edu AU VIC WA NT Pre", cursive;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }

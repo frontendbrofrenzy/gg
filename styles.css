@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+    background-color: rgb(65, 61, 61);
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    left:1007px;
+    color: rgb(117, 239, 239);
+}
+nav h2{
+    position: relative;
+    left:188px;
+    top:23px;
+    font-size:43px;
+    color:rgb(98, 237, 237);
+}
+nav ul li{
+    position: relative;
+     left:1377px;
+     font-size:x-large;
+     bottom: 16px;
+     margin: 0px 16px;
+}
+.about img{
+    height:434px;
+    width: 434px;
+    border-radius: 265px;
+    position: relative;
+    top:177px;
+    margin-left:165px;
+    border:2px solid black;
+}
+
+.content{
+    position: relative;
+    padding: 23px;
+    margin-left: 656px;
+    margin-right:88px;
+    bottom: 205px;
+    color: white;
+    line-height: 21px;
+}
+.icons{
+    font-size: xx-large;
+    padding: 16px;
+    display: flex;
+    margin-left:334px;
+    gap:16px;
+    position: relative;
+    left: 12px;
+}
+.about2{
+    position: relative;
+    top:88px;
+}
